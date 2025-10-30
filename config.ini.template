@@ -1,0 +1,67 @@
+[TWITTER]
+username = 
+email = 
+password = 
+
+
+[AI]
+openai_api_key = 
+model = 
+max_tokens =
+temperature = 
+
+[SCRAPING]
+default_tweet_count = 
+max_tweet_count = 
+save_to_file = 
+output_format = 
+output_directory = 
+scroll_delay_min = 
+scroll_delay_max = 
+max_scroll_attempts = 
+max_attempts_without_new = 
+max_tweets_per_session = 
+overlap_detection_threshold = 
+
+[SEARCH]
+enable_historical_search = 
+chunk_type = 
+max_tweets_per_date_range = 
+search_delay_between_ranges = 
+
+[TIMEOUTS]
+page_load_timeout = 
+element_wait_timeout = 
+button_click_timeout = 
+cookie_verification_timeout = 
+login_complete_timeout = 
+short_wait_timeout = 
+post_login_page_delay = 
+post_input_delay = 
+post_navigation_delay = 
+post_click_delay = 
+verification_check_delay = 
+login_wait_delay = 
+page_refresh_short_delay = 
+page_refresh_long_delay = 
+
+[LOGGING]
+level = 
+log_to_file = 
+log_file = 
+max_log_size =
+backup_count = 
+
+[FILTERS]
+min_followers = 
+verified_only = 
+exclude_retweets = 
+exclude_replies = 
+language = 
+
+[PROXY]
+enable_proxy_rotation = 
+proxy_list = 
+proxy_rotation_url = 
+validate_proxies_on_startup = 
+
